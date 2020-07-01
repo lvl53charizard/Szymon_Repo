@@ -1,0 +1,12 @@
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\bin\Debug\netcoreapp3.1\Text_Game.exe
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\bin\Debug\netcoreapp3.1\Text_Game.deps.json
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\bin\Debug\netcoreapp3.1\Text_Game.runtimeconfig.json
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\bin\Debug\netcoreapp3.1\Text_Game.runtimeconfig.dev.json
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\bin\Debug\netcoreapp3.1\Text_Game.dll
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\bin\Debug\netcoreapp3.1\Text_Game.pdb
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\obj\Debug\netcoreapp3.1\Text_Game.AssemblyInfoInputs.cache
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\obj\Debug\netcoreapp3.1\Text_Game.AssemblyInfo.cs
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\obj\Debug\netcoreapp3.1\Text_Game.csproj.CoreCompileInputs.cache
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\obj\Debug\netcoreapp3.1\Text_Game.dll
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\obj\Debug\netcoreapp3.1\Text_Game.pdb
+C:\Users\Czori\source\repos\Szymon_Repo\C#\Text_Game\Text_Game\obj\Debug\netcoreapp3.1\Text_Game.genruntimeconfig.cache

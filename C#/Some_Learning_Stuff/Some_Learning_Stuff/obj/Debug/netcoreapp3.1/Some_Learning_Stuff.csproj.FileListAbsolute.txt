@@ -1,0 +1,13 @@
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\bin\Debug\netcoreapp3.1\Some_Learning_Stuff.exe
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\bin\Debug\netcoreapp3.1\Some_Learning_Stuff.deps.json
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\bin\Debug\netcoreapp3.1\Some_Learning_Stuff.runtimeconfig.json
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\bin\Debug\netcoreapp3.1\Some_Learning_Stuff.runtimeconfig.dev.json
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\bin\Debug\netcoreapp3.1\Some_Learning_Stuff.dll
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\bin\Debug\netcoreapp3.1\Some_Learning_Stuff.pdb
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\obj\Debug\netcoreapp3.1\Some_Learning_Stuff.csprojAssemblyReference.cache
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\obj\Debug\netcoreapp3.1\Some_Learning_Stuff.AssemblyInfoInputs.cache
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\obj\Debug\netcoreapp3.1\Some_Learning_Stuff.AssemblyInfo.cs
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\obj\Debug\netcoreapp3.1\Some_Learning_Stuff.csproj.CoreCompileInputs.cache
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\obj\Debug\netcoreapp3.1\Some_Learning_Stuff.dll
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\obj\Debug\netcoreapp3.1\Some_Learning_Stuff.pdb
+C:\Users\Czori\source\repos\Szymon_Repo\c\Some_Learning_Stuff\Some_Learning_Stuff\obj\Debug\netcoreapp3.1\Some_Learning_Stuff.genruntimeconfig.cache
