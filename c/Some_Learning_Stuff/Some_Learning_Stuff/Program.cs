@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp4
+namespace Some_Learning_Stuff
 {
     class Program
     {
@@ -38,7 +38,8 @@ namespace ConsoleApp4
                 "20 = Tlumacz z morsa na angielski \n" +
                 "21 = Pig translator lul \n" +
                 "22 = Bubble Sort \n" +
-                "23 = Selection Sort \n");
+                "23 = Selection Sort \n"
+                            );
 
 
 
